@@ -78,3 +78,11 @@ testAssignmentOperator	Correct deep copy via assignment
 testRandomInsertionsAndRemovals	Mixed random insertions/removals, checks BST/AVL
 testSplayHeight	Splay tree maintains correct height
 testAVLTreeHeight	AVL tree height within log(n) bounds
+
+Skills & Concepts Demonstrated
+Advanced Data Structures: BST, AVL, Splay Trees.
+Tree balancing algorithms.
+Memory management: Dynamic allocation, deep copy, destructors.
+Object-Oriented Programming (OOP).
+Testing and validation of tree properties.
+Randomization for testing.
